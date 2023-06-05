@@ -13,8 +13,5 @@ Moreover the repository includes a *Jupyter notebook* where regression and Pears
 
 Click on the button to run the notebook and interact with it in Binder: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KarolinaPntzt/regression/master?labpath=regression_OA_vegetation.ipynb)
 
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KarolinaPntzt/regression/HEAD?labpath=regression_OA_vegetation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KarolinaPntzt/regression/main?labpath=regression_OA_vegetation.ipynb)
