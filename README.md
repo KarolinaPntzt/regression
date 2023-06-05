@@ -13,12 +13,6 @@ Moreover the repository includes a *Jupyter notebook* where regression and Pears
 
 Click on the button to run the notebook and interact with it in Binder: 
 
-
-https://mybinder.org/v2/gh/KarolinaPntzt/regression/master?labpath=regression_OA_vegetation.ipynb
-
-Copy to clipboard
-Expand to see the text below, paste it into your README to show a binder badge: Binder badge logo
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KarolinaPntzt/regression/master?labpath=regression_OA_vegetation.ipynb)
 
 
