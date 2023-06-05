@@ -6,3 +6,4 @@ The repository is organized to the following folders:
 - data: contains the datasets used in the Jupyter notebooks
 - img: contains the image files used in the Jupuyter notebooks
 
+and includes a Jupyter notebook where regression and Pearson correlation analyses are performed over the generated obstruction angle simulation output for existing buildings and vegetation.
