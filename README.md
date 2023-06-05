@@ -21,8 +21,5 @@ Expand to see the text below, paste it into your README to show a binder badge: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KarolinaPntzt/regression/master?labpath=regression_OA_vegetation.ipynb)
 
-Markdown icon Copy markdown link to clipboard
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/KarolinaPntzt/regression/master?labpath=regression_OA_vegetation.ipynb
 
